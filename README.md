@@ -22,6 +22,6 @@ Get gradle aliases from my .dotfiles repo: [Gradle Aliases](https://github.com/Z
     * `./dotests.sh -r tests`
 
 6. How to set expected output for a sample file:
-    * `./dotests.sh -s <file-name>
+    * `./dotests.sh -s <file-name>`
 
 7. If you would like to use Eclipse, then run `gradle eclipse` to generate project files.

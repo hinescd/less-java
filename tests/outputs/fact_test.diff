@@ -1,8 +1,0 @@
---- tests/outputs/fact_test.out	2019-02-04 13:06:00.887447353 -0500
-+++ tests/outputs/fact_test.exp	2019-02-04 13:06:00.889447364 -0500
-@@ -1,5 +0,0 @@
--JUnit version 4.12
--.....
--
--OK (5 tests)
--

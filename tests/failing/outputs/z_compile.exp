@@ -1,0 +1,18 @@
+:generateGrammarSource UP-TO-DATE
+:compileJava UP-TO-DATE
+:processResources NO-SOURCE
+:classes UP-TO-DATE
+:ljwrappers:compileJava UP-TO-DATE
+:ljwrappers:processResources NO-SOURCE
+:ljwrappers:classes UP-TO-DATE
+:copyWrappers UP-TO-DATE
+:rungenerated/Main.java:22: error: cannot find symbol
+            c = (c+b(i));
+                   ^
+  symbol:   method b(Integer)
+  location: class Main
+1 error
+
+
+BUILD SUCCESSFUL
+

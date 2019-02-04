@@ -1,0 +1,8 @@
+--- tests/outputs/unit-test_test.out	2019-02-04 13:06:24.563572711 -0500
++++ tests/outputs/unit-test_test.exp	2019-02-04 13:06:24.565572721 -0500
+@@ -1,5 +0,0 @@
+-JUnit version 4.12
+-.
+-
+-OK (1 test)
+-

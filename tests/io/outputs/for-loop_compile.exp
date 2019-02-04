@@ -1,0 +1,13 @@
+:generateGrammarSource UP-TO-DATE
+:compileJava UP-TO-DATE
+:processResources NO-SOURCE
+:classes UP-TO-DATE
+:ljwrappers:compileJava UP-TO-DATE
+:ljwrappers:processResources NO-SOURCE
+:ljwrappers:classes UP-TO-DATE
+:copyWrappers UP-TO-DATE
+:runline 1:0 mismatched input 'for' expecting {<EOF>, 'test', 'global', ID, EOL}
+
+
+BUILD SUCCESSFUL
+

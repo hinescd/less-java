@@ -1,0 +1,8 @@
+--- tests/io/outputs/input_run.out	2019-02-04 13:09:40.752536318 -0500
++++ tests/io/outputs/input_run.exp	2019-02-04 13:09:40.898536997 -0500
+@@ -1,5 +0,0 @@
+-Integer: 5
+-Double: 5.3
+-Character: a
+-Word: hello!
+-Line: many words

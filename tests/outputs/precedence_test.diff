@@ -1,0 +1,8 @@
+--- tests/outputs/precedence_test.out	2019-02-04 13:06:13.709515554 -0500
++++ tests/outputs/precedence_test.exp	2019-02-04 13:06:13.711515565 -0500
+@@ -1,5 +0,0 @@
+-JUnit version 4.12
+-.
+-
+-OK (1 test)
+-

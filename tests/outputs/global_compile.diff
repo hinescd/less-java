@@ -1,0 +1,15 @@
+--- tests/outputs/global_compile.out	2019-02-04 13:06:09.110491178 -0500
++++ tests/outputs/global_compile.exp	2019-02-04 13:06:09.411492776 -0500
+@@ -1,12 +0,0 @@
+-:generateGrammarSource UP-TO-DATE
+-:compileJava UP-TO-DATE
+-:processResources NO-SOURCE
+-:classes UP-TO-DATE
+-:ljwrappers:compileJava UP-TO-DATE
+-:ljwrappers:processResources NO-SOURCE
+-:ljwrappers:classes UP-TO-DATE
+-:copyWrappers UP-TO-DATE
+-:run
+-
+-BUILD SUCCESSFUL
+-

@@ -1,0 +1,15 @@
+--- tests/outputs/bracket-access_compile.out	2019-02-04 13:05:45.021361885 -0500
++++ tests/outputs/bracket-access_compile.exp	2019-02-04 13:05:45.254363149 -0500
+@@ -1,12 +0,0 @@
+-:generateGrammarSource UP-TO-DATE
+-:compileJava UP-TO-DATE
+-:processResources NO-SOURCE
+-:classes UP-TO-DATE
+-:ljwrappers:compileJava UP-TO-DATE
+-:ljwrappers:processResources NO-SOURCE
+-:ljwrappers:classes UP-TO-DATE
+-:copyWrappers UP-TO-DATE
+-:run
+-
+-BUILD SUCCESSFUL
+-
